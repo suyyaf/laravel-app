@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return  "hello good day sir, today's date is 29112022-1";
+    return  "hello good day sir, today's date is 30112022";
 });
